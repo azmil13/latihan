@@ -1,1 +1,1 @@
-console.log ("kampung coblong")
+console.log ("kampung coblong");
